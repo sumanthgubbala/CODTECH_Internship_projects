@@ -5,7 +5,7 @@
 **Duration:** 8 Weeks  
 
 
-## **1️⃣ Big Data Analysis (PySpark/Dask)**  
+## **1️⃣ Big Data Analysis (PySpark)**  
 ### **🔹 Problem Statement**  
 Analyzed **New York City Yellow Taxi Trip Data** using **PySpark** to handle large-scale data efficiently. The goal was to identify trends in **trip duration, fare distribution, and peak hours**.
 
