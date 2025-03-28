@@ -18,8 +18,8 @@ Built a **machine learning model** to predict **house prices** based on features
 ✔ **Feature Engineering:** Selected **significant variables** like area, number of floors, and age of the house  
 ✔ **Model Training:** Used **Random Forest Regression** for price prediction  
 ✔ **Performance Metrics:**  
-  - **MAE:** 70,200.71  
-  - **R² Score:** 0.88  
+  - **Random Forest MAE**: 114839.29647742817  
+  - **Random Forest R² Score**: 0.75  
 
 ### **🔹 Prediction System Function**
 ```python
