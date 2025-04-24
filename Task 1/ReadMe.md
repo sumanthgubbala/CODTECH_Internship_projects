@@ -4,6 +4,22 @@
 **Mentor:** Sravani  
 **Duration:** 8 Weeks  
 
+
+## **1️⃣ Big Data Analysis (PySpark)**  
+### **🔹 Problem Statement**  
+Analyzed **New York City Yellow Taxi Trip Data** using **PySpark** to handle large-scale data efficiently. The goal was to identify trends in **trip duration, fare distribution, and peak hours**.
+
+### **🔹 Key Steps**  
+✔ Loaded large datasets from Kaggle into Google Colab  
+✔ Explored schema and handled missing data using PySpark  
+✔ Performed data transformations (filtering, grouping, aggregations)  
+✔ Generated insights into **passenger patterns, trip distances, and fare trends**  
+
+### **🔹 Tools & Technologies**  
+- PySpark (RDD, DataFrame API)  
+- Google Colab  
+- Kaggle Datasets  
+
 ## **📌 Output Screenshots**  
 ![image](https://github.com/user-attachments/assets/d5cbbb78-15ab-49c8-86f7-33e6cd1aa8da)
 
